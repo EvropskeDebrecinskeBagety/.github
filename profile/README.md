@@ -10,4 +10,4 @@ I am assuming that you found this page by clicking "more" and "github" on one of
 We are very very great (irony) developers from czechia & slovakia, who do their "jobs" in their free time.
 
 ## What we do
-We make games/applications for public use!
+We make games/applications for everyone!
